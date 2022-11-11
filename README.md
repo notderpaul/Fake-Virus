@@ -1,4 +1,4 @@
-### Fake Vitus for Trolling
+### Fake Virus for Trolling
 A batch file that makes it look like you have a "virus"
 
 ### ToDo
